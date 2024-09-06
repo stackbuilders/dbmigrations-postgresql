@@ -4,3 +4,12 @@ cabal.project
 dist
 dist-newstyle
 .*.swp
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
