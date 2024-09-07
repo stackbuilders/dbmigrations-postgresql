@@ -2,7 +2,6 @@
 
 {
   packages = [
-    pkgs.haskellPackages.cabal-plan
     pkgs.postgresql
   ];
 
